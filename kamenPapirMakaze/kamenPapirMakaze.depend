@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664696160 source:c:\users\majra\documents\udemy_kursevi\udemy kurs c\mojevjezbe\kamenpapirmakaze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

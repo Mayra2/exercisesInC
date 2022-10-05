@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1664914364 source:c:\users\majra\documents\udemy_kursevi\udemy kurs c\mojevjezbe\vjezba\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+

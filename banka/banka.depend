@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1648897890 source:c:\users\majra\documents\programiranje\banka\main.c
+	<stdio.h>
+	<stdlib.h>
+
